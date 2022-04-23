@@ -4,7 +4,7 @@ const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // TODO: Create an array of questions for user input
-const questions = () => {};
+// const questions = () => {};
 inquirer
   .prompt([
     {
@@ -38,9 +38,10 @@ inquirer
       message: "How do you test it?",
     },
     {
-      type: "input",
+      type: "list",
       name: "license",
       message: "what license?",
+      choices: ["MIT", "BSD 2", "BSD 3", "Boost Software", "None"],
     },
     {
       type: "input",

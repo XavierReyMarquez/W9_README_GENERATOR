@@ -1,31 +1,31 @@
-# README GENERTARO
+![license](https://img.shields.io/badge/License-MIT-green)
 
-  ## Description
+# README FILE GENERATOR
 
-  create read me
+## Description
 
-  ## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+A code use to create ReadMe files for the user
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
   ## Installation
 
-  node and npm
-
-
+  Noda and Npm
 
   ## Usage
 
-  to create readme
+  To create a ReadMe File for the user so they can save time
 
   ## Credits
 
-  xavier
+  Xavier Marquez
 
   ## Tests
 
@@ -33,6 +33,12 @@
 
   ## License
 
-  none
+  ![license](https://img.shields.io/badge/License-MIT-green)
+  https://mit-license.org/
 
+  ## Questions
 
+  contact me here:
+
+* Email: xavier.ray.marquez@gmail.com
+* GitHub [XavierRayMarquez](https://github.com/XavierReyMarquez)
