@@ -1,5 +1,5 @@
 {
-  "name": "static-site",
+  "name": "y",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.5.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierReyMarquez/W9_README_GENERATOR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XavierReyMarquez/W9_README_GENERATOR/issues"
+  },
+  "homepage": "https://github.com/XavierReyMarquez/W9_README_GENERATOR#readme",
+  "keywords": []
 }

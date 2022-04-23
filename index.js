@@ -55,16 +55,19 @@ inquirer
   ])
   .then((data) => {
     console.log(data);
-    writeToFile;
+
+    fs.writeFile("user.md", generateMarkdown(data), (err) => {
+      err ? console.log(err) : console.log("Created ReadMe file");
+    });
   });
 
 // console.log(questions);
 //  TODO: Create a function to write README file
-function writeToFile(genFile, data) {
-  fs.writeFile("genFile.md", generateMarkdown(data), (err) => {
-    err ? console.log(err) : console.log("Created ReadMe file");
-  });
-}
+// function writeToFile(genFile, data) {
+//   fs.writeFile(genFile.md, generateMarkdown(data), (err) => {
+//     err ? console.log(err) : console.log("Created ReadMe file");
+//   });
+// }
 
 // // TODO: Create a function to initialize app
 // function init() {
