@@ -44,7 +44,7 @@ To create a ReadMe File for the user so they can save time. Once the user has in
 
 ![A gif of the deployed application](./Assets/Untitled_%20Apr%2022%2C%202022%203_36%20PM.gif "gif showing how the application runs")
 
-## Credits
+## contributing
 
 Xavier Marquez
 
