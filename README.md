@@ -31,29 +31,33 @@ THEN I am taken to the corresponding section of the README
 - [Tests](#tests)
 - [Questions](#questions)
 
-  ## Installation
+## Installation
 
-  - Node
-  - Npm
+- Node
+- Npm
 
-  ## Usage
+## Usage
 
-  To create a ReadMe File for the user so they can save time
+To create a ReadMe File for the user so they can save time. Once the user has installed node and Npm they can call the code by running node index.js
 
-  ## Credits
+![A picture of the deployed application](./Assets/Screenshot%202022-04-23%20214009.png "A screenshot of an example ReadMe")
 
-  Xavier Marquez
+![A gif of the deployed application](./Assets/Untitled_%20Apr%2022%2C%202022%203_36%20PM.gif "gif showing how the application runs")
 
-  ## Tests
+## Credits
 
-  node index.js
+Xavier Marquez
 
-  ## License
+## Tests
 
-  ![license](https://img.shields.io/badge/License-MIT-green)
-  https://mit-license.org/
+node index.js
 
-  ## Questions
+## License
 
-* Email: xavier.ray.marquez@gmail.com
-* GitHub [XavierRayMarquez](https://github.com/XavierReyMarquez)
+![license](https://img.shields.io/badge/License-MIT-green)
+https://mit-license.org/
+
+## Questions
+
+- Email: xavier.ray.marquez@gmail.com
+- GitHub [XavierRayMarquez](https://github.com/XavierReyMarquez)

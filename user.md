@@ -1,31 +1,32 @@
 ![license](https://img.shields.io/badge/License-MIT-green)
 
-# README FILE GENERATOR
+  # Readme Generator
+  
+  ## Description
 
-## Description
+  tor create readme files
 
-A code use to create ReadMe files for the user
+  ## Table of Contents
 
-## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
 
   ## Installation
 
-  Noda and Npm
+  Node and Npm
 
   ## Usage
 
-  To create a ReadMe File for the user so they can save time
+  toe create read me files
 
   ## Credits
 
-  Xavier Marquez
+  Xavier
 
   ## Tests
 
@@ -40,5 +41,5 @@ A code use to create ReadMe files for the user
 
   contact me here:
 
-* Email: xavier.ray.marquez@gmail.com
-* GitHub [XavierRayMarquez](https://github.com/XavierReyMarquez)
+ - Email: xavier.ray.marquez@gmail.com
+ - GitHub [XavierReyMarquez](https://github.com/XavierReyMarquez)
